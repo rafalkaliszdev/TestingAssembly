@@ -1,0 +1,9 @@
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\bin\Debug\netcoreapp1.1\AzureStone.deps.json
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\bin\Debug\netcoreapp1.1\AzureStone.dll
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\bin\Debug\netcoreapp1.1\AzureStone.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\bin\Debug\netcoreapp1.1\TestingAssembly.dll
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\bin\Debug\netcoreapp1.1\TestingAssembly.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\obj\Debug\netcoreapp1.1\AzureStone.csprojResolveAssemblyReference.cache
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\obj\Debug\netcoreapp1.1\AzureStone.AssemblyInfo.cs
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\obj\Debug\netcoreapp1.1\AzureStone.dll
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\AzureStone\obj\Debug\netcoreapp1.1\AzureStone.pdb

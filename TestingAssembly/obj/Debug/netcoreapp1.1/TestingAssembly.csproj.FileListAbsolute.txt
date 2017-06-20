@@ -1,0 +1,8 @@
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\bin\Debug\netcoreapp1.1\TestingAssembly.deps.json
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\bin\Debug\netcoreapp1.1\TestingAssembly.runtimeconfig.json
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\bin\Debug\netcoreapp1.1\TestingAssembly.runtimeconfig.dev.json
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\bin\Debug\netcoreapp1.1\TestingAssembly.dll
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\bin\Debug\netcoreapp1.1\TestingAssembly.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\obj\Debug\netcoreapp1.1\TestingAssembly.AssemblyInfo.cs
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\obj\Debug\netcoreapp1.1\TestingAssembly.dll
+c:\users\programmer\documents\visual studio 2017\Projects\TestingAssembly\TestingAssembly\obj\Debug\netcoreapp1.1\TestingAssembly.pdb
