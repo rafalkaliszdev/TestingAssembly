@@ -53,10 +53,7 @@ namespace TestingAssembly
             dynamic obj = Activator.CreateInstance(type);
             //var obj = new BasicClass("hello world");
             var result1 = obj.ReturnHashed();
-
-
-            obj.Ddqwqw
-                ();
+                                                                                           
 
 
             if (result1 == "5EB63BBBE01EEED093CB22BB8F5ACDC3")
